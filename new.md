@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: seo
 date: 
 page_sections:
 - template: hero-banner-w-image
