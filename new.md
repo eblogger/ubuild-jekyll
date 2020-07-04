@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: seo
-date: 
+date: 2020-06-29 19:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
